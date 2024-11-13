@@ -8,7 +8,7 @@
 
 ### Achievements
 - 🏆 **Awards:** GA-based Inventory Optimizer (3rd Place Regionals)
-- 💡 **Built & Launched:** A startup while still in first year
+- 💡 **Built & Launched:** A startup while still a first-year undergrad
 - 🔧 **Technical Skills:** Trading Systems Development, MT5 Programming
 
 ### Connect With Me
