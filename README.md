@@ -2,13 +2,9 @@
 
 ### About Me
 - 🎓 First-year undergraduate with a passion for FinTech
-- 🚀 Founder of [shinypips.com](https://shinypips.com)
+- 🚀 Founder @ <a href="https://shinypips.com" target="_blank">shinypips.com</a>
 - 🤖 **Working on:** Machine Learning & AI projects
 - 📈 **Learning:** AI applications in Finance and Trading Systems
-- 🌟 **Latest Project:** Custom MT5 News Release Indicator
-  - Developed algorithmic trading tool for news-based market events
-  - Implemented in MetaTrader 5 platform
-  - Focused on real-time market analysis and trade execution
 
 ### Achievements
 - 🏆 **Awards:** GA-based Inventory Optimizer (3rd Place Regionals)
