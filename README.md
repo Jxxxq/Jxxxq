@@ -6,4 +6,4 @@
 
 ### Contact
 - Academic: smithjj3@hendrix.edu
-- Email: jsmith121205@gmail.com
+- Email: smithjwork05@gmail.com
